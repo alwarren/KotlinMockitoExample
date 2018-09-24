@@ -21,7 +21,7 @@ import org.mockito.Mockito.`when`
  * This test verifies integration of all three MVP components without actually implementing
  * any of those components in the application.
  *
- * Passing on 9/4/2018
+ * Passing on 9/24/2018
  */
 class MainPresenterTest {
     private val repository: Repository = mock(Repository::class.java)
